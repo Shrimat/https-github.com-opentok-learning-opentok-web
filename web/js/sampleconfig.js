@@ -1,1 +1,1 @@
-var SAMPLE_SERVER_BASE_URL = 'http://YOUR-SERVER-URL';
+var SAMPLE_SERVER_BASE_URL = 'http://vendor/bin/heroku-php-apache2 web';
